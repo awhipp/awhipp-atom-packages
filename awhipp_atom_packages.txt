@@ -6,7 +6,6 @@ busy-signal
 color-picker
 intentions
 jekyll
-kite
 language-javascript-jsx
 language-liquid
 language-markdown
@@ -17,5 +16,5 @@ markdown-writer
 minimap
 pigments
 platformio-ide-terminal
-react
 prettier-atom
+react
